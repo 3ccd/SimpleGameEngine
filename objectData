@@ -1,0 +1,80 @@
+ObjectName : PlayerObject
+FileName : car2.stl
+Tag : Player
+Position : 0.0 0.0 0.0
+Rotation : 0.0 0.0 0.0
+Child : 1
+Child : 2
+Child : 3
+Child : 4
+EndObject
+
+ObjectName : Tire0
+FileName : tire.stl
+Tag : Child
+Position : 0.43 0.58 -0.07
+Rotation : 0.0 0.0 0.0
+EndObject
+
+ObjectName : Tire1
+FileName : tire.stl
+Tag : Child
+Position : -0.45 0.58 -0.07
+Rotation : 0.0 0.0 180.0
+EndObject
+
+ObjectName : Tire2
+FileName : tire.stl
+Tag : Child
+Position : 0.34 -0.78 -0.07
+Rotation : 0.0 0.0 0.0
+EndObject
+
+ObjectName : Tire3
+FileName : tire.stl
+Tag : Child
+Position : -0.36 -0.78 -0.07
+Rotation : 0.0 0.0 180.0
+EndObject
+
+ObjectName : Camera
+FileName : None
+Tag : Empty
+Position : 0.0 10.0 0.8
+Rotation : 0.0 0.0 0.0
+EndObject
+
+ObjectName : City
+FileName : hdg.stl
+Tag : Environment
+Position : 0.0 0.0 0.0
+Rotation : 0.0 0.0 0.0
+EndObject
+
+ObjectName : Title
+FileName : title.stl
+Tag : Other
+Position : 0.0 0.0 2.5
+Rotation : 0.0 0.0 180.0
+EndObject
+
+ObjectName : Resume
+FileName : rsum.stl
+Tag : Other
+Position : 0.0 0.0 4.0
+Rotation : 0.0 0.0 180.0
+EndObject
+
+ObjectName : EXIT
+FileName : exit.stl
+Tag : Other
+Position : 0.0 0.0 2.2
+Rotation : 0.0 0.0 180.0
+EndObject
+
+ObjectName : Return
+FileName : return.stl
+Tag : Other
+Position : 0.0 0.0 1.4
+Rotation : 0.0 0.0 180.0
+EndObject
